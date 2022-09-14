@@ -7,3 +7,9 @@ Technical Skills:
 HTML | CSS | JAVASCRIPT | REACT | REDUX | EXPRESS | SQL | SEQUELIZE | NODE | GIT
 
 ## My Proyects
+
+<img src="ChangApp.png" alt="Not Found">
+<a href="https://app-changapp.vercel.app">
+
+<img src="Videogames.png" alt="Not Found">
+<a href="https://videogames-app-eta.vercel.app">
